@@ -1,0 +1,6 @@
+[book]
+authors = ["iczc"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Substrate Recipes 中文版"

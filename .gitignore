@@ -1,0 +1,5 @@
+# md book build directory
+book
+
+# MacOS thing
+**/.DS_Store
